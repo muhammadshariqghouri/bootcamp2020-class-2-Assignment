@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="piaic.png" alt="piaic" />
-        <h1>Muhammad Shariq Bilal Ghori (ASSIGNMENT 2)</h1>
+        <h1>"Muhammad Shariq Bilal Ghori" (ASSIGNMENT 2)</h1>
         <p>
           This is My Second Assignment of Bootcamp2020 React App
         </p>
