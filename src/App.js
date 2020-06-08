@@ -8,6 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="piaic.png" alt="piaic" />
         <h1>"Muhammad Shariq Bilal Ghori" (ASSIGNMENT 2)</h1>
+        <h2>Successfully Deployed Automatically</h2>
         <p>
           This is My Second Assignment of Bootcamp2020 React App
         </p>
